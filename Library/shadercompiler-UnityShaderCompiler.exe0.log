@@ -1,0 +1,21 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.4.20f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.4.20f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: preprocess
+  insize=3289 outsize=476 ok=1
+Cmd: preprocess
+  insize=1995 outsize=386 ok=1
+Cmd: preprocess
+  insize=1721 outsize=349 ok=1
+Cmd: preprocess
+  insize=2986 outsize=295 ok=1
+Cmd: preprocess
+  insize=4060 outsize=809 ok=1
+Cmd: preprocess
+  insize=2730 outsize=218 ok=1
+Cmd: preprocess
+  insize=3221 outsize=340 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1811 outsize=690 kw=VERTICAL_FLIP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1811 outsize=434 kw=VERTICAL_FLIP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING ok=1
